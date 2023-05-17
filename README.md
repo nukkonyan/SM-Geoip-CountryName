@@ -1,0 +1,2 @@
+# SourceMod Translations
+ Custom translations
