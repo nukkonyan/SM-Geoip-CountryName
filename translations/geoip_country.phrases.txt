@@ -1,0 +1,1755 @@
+"Phrases"
+{
+	// if none is specified for a country, 'en' is prioritized.
+
+	"#SM_CountryName_AF"
+	{
+		"en" "Afghanistan"
+		"jp" "アフガニスタン"
+	}
+
+	"#SM_CountryName_AX"
+	{
+		"en" "Åland Islands"
+		"jp" "オーランド諸島"
+		"sv" "Åland"
+	}
+
+	"#SM_CountryName_AL"
+	{
+		"en" "Albania"
+		"jp" "アルバニア"
+		"sv" "Albanien"
+	}
+
+	"#SM_CountryName_DZ"
+	{
+		"en" "Algeria"
+		"jp" "アルジェリア"
+		"sv" "Algeriet"
+	}
+
+	"#SM_CountryName_AS"
+	{
+		"en" "American Samoa"
+		"jp" "アメリカ領サモア"
+		"sv" "Amerikanska Samoa"
+	}
+
+	"#SM_CountryName_AD"
+	{
+		"en" "Andorra"
+		"jp" "アンドラ"
+	}
+
+	"#SM_CountryName_AO"
+	{
+		"en" "Angola"
+		"jp" "アンゴラ"
+	}
+
+	"#SM_CountryName_AI"
+	{
+		"en" "Anguilla"
+		"jp" "アンギラ"
+	}
+
+	"#SM_CountryName_AQ"
+	{
+		"en" "Antarctica"
+		"jp" "南極大陸"
+		"sv" "Antarktis"
+	}
+
+	"#SM_CountryName_AG"
+	{
+		"en" "Antigua and Barbuda"
+		"de" "Antigua und Barbuda"
+		"dk" "Antigua og Barbuda"
+		"jp" "アンティグア・バーブーダ"
+		"nl" "Antigua en Barbuda"
+		"no" "Antigua og Barbuda"
+		"sv" "Antigua och Barbuda"
+	}
+
+	"#SM_CountryName_AR"
+	{
+		"en" "Argentina"
+		"jp" "アルゼンチン"
+	}
+
+	"#SM_CountryName_AM"
+	{
+		"en" "Armenia"
+		"jp" "アルメニア"
+		"sv" "Armenien"
+	}
+
+	"#SM_CountryName_AW"
+	{
+		"en" "Aruba"
+		"jp" "アルバ"
+	}
+
+	"#SM_CountryName_AU"
+	{
+		"en" "Australia"
+		"jp" "オーストラリア"
+		"sv" "Australien"
+	}
+
+	"#SM_CountryName_AT"
+	{
+		"en" "Austria"
+		"de" "Österreich"
+		"jp" "オーストリア"
+		"sv" "Österrike"
+	}
+
+	"#SM_CountryName_AZ"
+	{
+		"en" "Azerbaijan"
+		"jp" "アゼルバイジャン"
+	}
+
+	"#SM_CountryName_BS"
+	{
+		"en" "Bahamas"
+		"jp" "バハマ"
+	}
+
+	"#SM_CountryName_BH"
+	{
+		"en" "Bahrain"
+		"jp" "バーレーン"
+	}
+
+	"#SM_CountryName_BD"
+	{
+		"en" "Bangladesh"
+		"jp" "バングラデシュ"
+	}
+
+	"#SM_CountryName_BB"
+	{
+		"en" "Barbados"
+		"jp" "バルバドス"
+	}
+
+	"#SM_CountryName_BY"
+	{
+		"en" "Belarus"
+		"jp" "ベラルーシ"
+		"sv" "Vitryssland"
+	}
+
+	"#SM_CountryName_BE"
+	{
+		"en" "Belgium"
+		"de" "Belgien"
+		"dk" "Belgien"
+		"jp" "ベルギー"
+		"nl" "België"
+		"no" "Belgien"
+		"sv" "Belgien"
+	}
+
+	"#SM_CountryName_BZ"
+	{
+		"en" "Belize"
+		"jp" "ベリーズ"
+	}
+
+	"#SM_CountryName_BJ"
+	{
+		"en" "Benin"
+		"jp" "ベナン"
+	}
+
+	"#SM_CountryName_BM"
+	{
+		"en" "Bermuda"
+		"jp" "バミューダ"
+	}
+
+	"#SM_CountryName_BT"
+	{
+		"en" "Bhutan"
+		"jp" "ブータン"
+	}
+
+	"#SM_CountryName_BO"
+	{
+		"en" "Bolivia"
+		"jp" "ボリビア"
+	}
+
+	"#SM_CountryName_BA"
+	{
+		"en" "Bosnia and Herzegovina"
+		"de" "Bosnien und Herzegowina"
+		"dk" "Bosnien-Hercegovina"
+		"jp" "ボスニア・ヘルツェゴビナ"
+		"nl" "Bosnien en Hercegovina"
+		"no" "Bosnien og Hercegovina"
+		"sv" "Bosnien och Hercegovina"
+	}
+
+	"#SM_CountryName_BW"
+	{
+		"en" "Botswana"
+		"jp" "ボツワナ"
+	}
+
+	"#SM_CountryName_BV"
+	{
+		"en" "Bouvet Island (Bouvetoya)"
+		"jp" "ブーベ島（ブーベトヤ）"
+		"sv" "Bouvetön (Bouvetoya)"
+	}
+
+	"#SM_CountryName_BR"
+	{
+		"en" "Brazil"
+		"de" "Brazilien"
+		"dk" "Brazilien"
+		"jp" "ブラジル"
+		"no" "Brazilien"
+		"sv" "Brazilien"
+	}
+
+	"#SM_CountryName_IO"
+	{
+		"en" "British Indian Ocean Territory (Chagos Archipelago)"
+		"jp" "イギリス領インド洋地域 (チャゴス諸島)"
+		"sv" "Brittiska Territoriet i Indiska oceanen (Chagos skärgård)"
+	}
+
+	"#SM_CountryName_VG"
+	{
+		"en" "British Virgin Islands"
+		"jp" "イギリス領バージン諸島"
+		"sv" "Brittiska Jungfruöarna"
+	}
+
+	"#SM_CountryName_BN"
+	{
+		"en" "Brunei Darussalam"
+		"jp" "ブルネイ ダルサラーム"
+	}
+
+	"#SM_CountryName_BG"
+	{
+		"en" "Bulgaria"
+		"dk" "Bulgarien"
+		"jp" "ブルガリア"
+		"no" "Bulgarien"
+		"sv" "Bulgarien"
+	}
+
+	"#SM_CountryName_BF"
+	{
+		"en" "Burkina Faso"
+		"jp" "ブルキナファソ"
+	}
+
+	"#SM_CountryName_BI"
+	{
+		"en" "Burundi"
+		"jp" "ブルンジ"
+	}
+
+	"#SM_CountryName_KH"
+	{
+		"en" "Cambodia"
+		"jp" "カンボジア"
+		"sv" "Kambodja"
+	}
+
+	"#SM_CountryName_CM"
+	{
+		"en" "Cameroon"
+		"jp" "カメルーン"
+		"sv" "Kamerun"
+	}
+
+	"#SM_CountryName_CA"
+	{
+		"en" "Canada"
+		"de" "Kanada"
+		"dk" "Kanada"
+		"jp" "カナダ"
+		"nl" "Kanada"
+		"no" "Kanada"
+		"sv" "Kanada"
+	}
+
+	"#SM_CountryName_CV"
+	{
+		"en" "Cape Verde"
+		"jp" "カーボベルデ"
+		"sv" "Cape Verde"
+	}
+
+	"#SM_CountryName_KY"
+	{
+		"en" "Cayman Islands"
+		"dk" "Caymanøerne"
+		"jp" "ケイマン諸島"
+		"no" "Caymanøyene"
+		"sv" "Caymanöarna"
+	}
+
+	"#SM_CountryName_CF"
+	{
+		"en" "Central African Republic"
+		"jp" "中央アフリカ共和国"
+		"sv" "Central Afrikanska Republiken"
+	}
+
+	"#SM_CountryName_TD"
+	{
+		"en" "Chad"
+		"jp" "チャド"
+	}
+
+	"#SM_CountryName_CL"
+	{
+		"en" "Chile"
+		"jp" "チリ"
+	}
+
+	"#SM_CountryName_CN"
+	{
+		"en" "China"
+		"de" "Kina"
+		"dk" "Kina"
+		"jp" "中国"
+		"no" "Kina"
+		"sv" "Kina"
+	}
+
+	"#SM_CountryName_CX"
+	{
+		"en" "Christmas Island"
+		"jp" "クリスマス島"
+		"sv" "Julön"
+	}
+
+	"#SM_CountryName_CC"
+	{
+		"en" "Cocos (Keeling) Islands"
+		"dk" "Cocosøerne (Keeling)"
+		"jp" "ココス諸島 (キーリング)"
+		"no" "Cocosøyene (Keeling)"
+		"sv" "Cocosöarna (Keeling)"
+	}
+
+	"#SM_CountryName_CO"
+	{
+		"en" "Colombia"
+		"jp" "コロンビア"
+	}
+
+	"#SM_CountryName_KM"
+	{
+		"en" "Comoros"
+		"jp" "コモロ"
+		"sv" "Komorerna"
+	}
+
+	"#SM_CountryName_CD"
+	{
+		"en" "Democratic Republic of the Congo"
+		"jp" "コンゴ民主共和国"
+		"sv" "Demokratiska republiken av Kongo"
+	}
+
+	"#SM_CountryName_CG"
+	{
+		"en" "Republic of the Congo"
+		"jp" "コンゴ共和国"
+		"sv" "Republiken av Kongo"
+	}
+
+	"#SM_CountryName_CK"
+	{
+		"en" "Cook Islands"
+		"dk" "Cookøerne"
+		"jp" "クック諸島"
+		"no" "Cookøyene"
+		"sv" "Cooköarna"
+	}
+
+	"#SM_CountryName_CR"
+	{
+		"en" "Costa Rica"
+		"jp" "コスタリカ"
+	}
+
+	"#SM_CountryName_CI"
+	{
+		"en" "Cote d' Ivoire"
+		"jp" "コートジボワール"
+		"sv" "Elfenbenskusten"
+	}
+
+	"#SM_CountryName_HR"
+	{
+		"en" "Croatia"
+		"dk" "Kroatien"
+		"jp" "クロアチア"
+		"no" "Kroatien"
+		"sv" "Kroatien"
+	}
+
+	"#SM_CountryName_CU"
+	{
+		"en" "Cuba"
+		"de" "Kuba"
+		"dk" "Kuba"
+		"jp" "キューバ"
+		"no" "Kuba"
+		"sv" "Kuba"
+	}
+
+	"#SM_CountryName_CY"
+	{
+		"en" "Cyprus"
+		"jp" "キプロス"
+		"sv" "Cypern"
+	}
+
+	"#SM_CountryName_CZ"
+	{
+		"en" "Czech Republic"
+		"jp" "チェコ共和国"
+		"sv" "Tjeckien"
+	}
+
+	"#SM_CountryName_DK"
+	{
+		"en" "Denmark"
+		"de" "Danmark"
+		"dk" "Danmark"
+		"jp" "デンマーク"
+		"sv" "Danmark"
+		"no" "Danmark"
+	}
+
+	"#SM_CountryName_DJ"
+	{
+		"en" "Djibouti"
+		"jp" "ジブチ"
+	}
+
+	"#SM_CountryName_DM"
+	{
+		"en" "Dominica"
+		"jp" "ドミニカ"
+	}
+
+	"#SM_CountryName_DO"
+	{
+		"en" "Dominican Republic"
+		"jp" "ドミニカ共和国"
+		"sv" "Dominikanska Republiken"
+	}
+
+	"#SM_CountryName_EC"
+	{
+		"en" "Ecuador"
+		"jp" "エクアドル"
+	}
+
+	"#SM_CountryName_EG"
+	{
+		"en" "Egypt"
+		"jp" "エジプト"
+		"sv" "Egypten"
+	}
+
+	"#SM_CountryName_SV"
+	{
+		"en" "El Salvador"
+		"jp" "救世主"
+	}
+
+	"#SM_CountryName_GQ"
+	{
+		"en" "Equatorial Guinea"
+		"jp" "赤道ギニア"
+		"sv" "Ekvatorialguinea"
+	}
+
+	"#SM_CountryName_ER"
+	{
+		"en" "Eritrea"
+		"jp" "エリトリア"
+	}
+
+	"#SM_CountryName_EE"
+	{
+		"en" "Estonia"
+		"de" "Estland"
+		"dk" "Estland"
+		"sv" "Estland"
+		"no" "Estland"
+		"jp" "エストニア"
+	}
+
+	"#SM_CountryName_ET"
+	{
+		"en" "Ethiopia"
+		"de" "Etiopien"
+		"dk" "Etiopien"
+		"jp" "エチオピア"
+		"no" "Etiopien"
+		"sv" "Etiopien"
+	}
+
+	"#SM_CountryName_FO"
+	{
+		"en" "Faroe Islands"
+		"jp" "フェロー諸島"
+		"sv" "Färöarna"
+	}
+
+	"#SM_CountryName_FK"
+	{
+		"en" "Falkland Islands (Malvinas)"
+		"jp" "フォークランド諸島 (マルビナス)"
+		"sv" "Falklandöarna (Malvinas)"
+	}
+
+	"#SM_CountryName_FJ"
+	{
+		"en" "Fiji Islands"
+		"dk" "Fijiøerne"
+		"jp" "フィジー諸島"
+		"no" "Fijiøyene"
+		"sv" "Fijiöarna"
+	}
+
+	"#SM_CountryName_FI"
+	{
+		"en" "Finland"
+		"de" "Finland"
+		"dk" "Finland"
+		"jp" "フィンランド"
+		"no" "Finland"
+		"sv" "Finland"
+	}
+
+	"#SM_CountryName_FR"
+	{
+		"en" "France"
+		"jp" "フランス"
+		"sv" "Frankrike"
+	}
+
+	"#SM_CountryName_GF"
+	{
+		"en" "French Guiana"
+		"jp" "フランス領ギアナ"
+		"sv" "Franska Guiana"
+	}
+
+	"#SM_CountryName_PF"
+	{
+		"en" "French Polynesia"
+		"jp" "フランス領ポリネシア"
+		"sv" "Franska Polynesien"
+	}
+
+	"#SM_CountryName_TF"
+	{
+		"en" "French Southern Territories"
+		"jp" "フランス領南方領土"
+		"sv" "Franska Södra Territorierna"
+	}
+
+	"#SM_CountryName_GA"
+	{
+		"en" "Gabon"
+		"jp" "ガボン"
+	}
+
+	"#SM_CountryName_GM"
+	{
+		"en" "Gambia"
+		"jp" "ガンビア"
+	}
+
+	"#SM_CountryName_GE"
+	{
+		"en" "Georgia"
+		"jp" "グルジア"
+		"sv" "Georgien"
+	}
+
+	"#SM_CountryName_DE"
+	{
+		"en" "Germany"
+		"de" "Deutschland"
+		"dk" "Tyskland"
+		"jp" "ドイツ"
+		"no" "Tyskland"
+		"sv" "Tyskland"
+	}
+
+	"#SM_CountryName_GH"
+	{
+		"en" "Ghana"
+		"jp" "ガーナ"
+	}
+
+	"#SM_CountryName_GI"
+	{
+		"en" "Gibraltar"
+		"jp" "ジブラルタル"
+	}
+
+	"#SM_CountryName_GR"
+	{
+		"en" "Greece"
+		"dk" "Grekland"
+		"jp" "ギリシャ"
+		"no" "Grekland"
+		"sv" "Grekland"
+	}
+
+	"#SM_CountryName_GL"
+	{
+		"en" "Greenland"
+		"jp" "グリーンランド"
+		"nl" "Groenland"
+		"sv" "Grönland"
+	}
+
+	"#SM_CountryName_GD"
+	{
+		"en" "Grenada"
+		"jp" "グレナダ"
+	}
+
+	"#SM_CountryName_GP"
+	{
+		"en" "Guadeloupe"
+		"jp" "グアドループ"
+	}
+
+	"#SM_CountryName_GU"
+	{
+		"en" "Guam"
+		"jp" "グアム"
+	}
+
+	"#SM_CountryName_GT"
+	{
+		"en" "Guatemala"
+		"jp" "グアテマラ"
+	}
+
+	"#SM_CountryName_GG"
+	{
+		"en" "Guernsey"
+		"jp" "ガーンジー"
+	}
+
+	"#SM_CountryName_GN"
+	{
+		"en" "Guinea"
+		"jp" "ギニア"
+	}
+
+	"#SM_CountryName_GW"
+	{
+		"en" "Guinea-Bissau"
+		"jp" "ギニアビサウ"
+	}
+
+	"#SM_CountryName_GY"
+	{
+		"en" "Guyana"
+		"jp" "ガイアナ"
+	}
+
+	"#SM_CountryName_HT"
+	{
+		"en" "Haiti"
+		"jp" "ハイチ"
+	}
+
+	"#SM_CountryName_HM"
+	{
+		"en" "Heard Island and McDonald Islands"
+		"jp" "ハード島とマクドナルド諸島"
+		"sv" "Heardön och McDonald Öarna"
+	}
+
+	"#SM_CountryName_VA"
+	{
+		"en" "Vatican City"
+		"jp" "バチカン市"
+		"sv" "Vatikanstaten"
+	}
+
+	"#SM_CountryName_HN"
+	{
+		"en" "Honduras"
+		"jp" "ホンジュラス"
+	}
+
+	"#SM_CountryName_HK"
+	{
+		"en" "Hong Kong"
+		"jp" "香港"
+	}
+
+	"#SM_CountryName_HU"
+	{
+		"en" "Hungary"
+		"jp" "ハンガリー"
+		"sv" "Ungern"
+	}
+
+	"#SM_CountryName_IS"
+	{
+		"en" "Iceland"
+		"dk" "Island"
+		"jp" "アイスランド"
+		"no" "Island"
+		"sv" "Island"
+	}
+
+	"#SM_CountryName_IN"
+	{
+		"en" "India"
+		"de" "Indien"
+		"dk" "Indien"
+		"jp" "インド"
+		"no" "Indien"
+		"sv" "Indien"
+	}
+
+	"#SM_CountryName_ID"
+	{
+		"en" "Indonesia"
+		"de" "Indonesien"
+		"dk" "Indonesien"
+		"jp" "インドネシア"
+		"no" "Indonesien"
+		"sv" "Indonesien"
+	}
+
+	"#SM_CountryName_IR"
+	{
+		"en" "Iran"
+		"jp" "イラン"
+	}
+
+	"#SM_CountryName_IQ"
+	{
+		"en" "Iraq"
+		"de" "Irak"
+		"dk" "Irak"
+		"jp" "イラク"
+		"nl" "Irak"
+		"no" "Irak"
+		"sv" "Irak"
+	}
+
+	"#SM_CountryName_IE"
+	{
+		"en" "Ireland"
+		"de" "Irland"
+		"dk" "Irland"
+		"jp" "アイルランド"
+		"nl" "Irland"
+		"no" "Irland"
+		"sv" "Irland"
+	}
+
+	"#SM_CountryName_IM"
+	{
+		"en" "Isle of Man"
+		"jp" "マン島"
+	}
+
+	"#SM_CountryName_IL"
+	{
+		"en" "Israel"
+		"jp" "イスラエル"
+	}
+
+	"#SM_CountryName_IT"
+	{
+		"en" "Italy"
+		"de" "Italien"
+		"dk" "Italien"
+		"jp" "イタリア"
+		"no" "Italien"
+		"sv" "Italien"
+	}
+
+	"#SM_CountryName_JM"
+	{
+		"en" "Jamaica"
+		"jp" "ジャマイカ"
+	}
+
+	"#SM_CountryName_JP"
+	{
+		"en" "Japan"
+		"jp" "日本"
+	}
+
+	"#SM_CountryName_JE"
+	{
+		"en" "Jersey"
+		"jp" "ジャージー"
+	}
+
+	"#SM_CountryName_JO"
+	{
+		"en" "Jordan"
+		"jp" "ヨルダン"
+		"sv" "Jordanien"
+	}
+
+	"#SM_CountryName_KZ"
+	{
+		"en" "Kazakhstan"
+		"dk" "Kazakstan"
+		"jp" "カザフスタン"
+		"no" "Kazakstan"
+		"sv" "Kazakstan"
+	}
+
+	"#SM_CountryName_KE"
+	{
+		"en" "Kenya"
+		"jp" "ケニア"
+	}
+
+	"#SM_CountryName_KI"
+	{
+		"en" "Kiribati"
+		"jp" "キリバス"
+	}
+
+	"#SM_CountryName_KP"
+	{
+		"en" "North Korea"
+		"jp" "北朝鮮"
+		"sv" "Nordkorea"
+	}
+
+	"#SM_CountryName_KR"
+	{
+		"en" "South Korea"
+		"jp" "韓国"
+		"sv" "Sydkorea"
+	}
+
+	"#SM_CountryName_KW"
+	{
+		"en" "Kuwait"
+		"jp" "クウェート"
+	}
+
+	"#SM_CountryName_KG"
+	{
+		"en" "Kyrgyzstan"
+		"jp" "キルギスタン"
+		"sv" "Kirgizstan"
+	}
+
+	"#SM_CountryName_LA"
+	{
+		"en" "Lao"
+		"jp" "ラオ語"
+	}
+
+	"#SM_CountryName_LV"
+	{
+		"en" "Latvia"
+		"sv" "Lettland"
+		"jp" "ラトビア"
+	}
+
+	"#SM_CountryName_LB"
+	{
+		"en" "Lebanon"
+		"jp" "レバノン"
+	}
+
+	"#SM_CountryName_LS"
+	{
+		"en" "Lesotho"
+		"jp" "レソト"
+	}
+
+	"#SM_CountryName_LR"
+	{
+		"en" "Liberia"
+		"jp" "リベリア"
+	}
+
+	"#SM_CountryName_LY"
+	{
+		"en" "Libya"
+		"jp" "リビア"
+	}
+
+	"#SM_CountryName_LI"
+	{
+		"en" "Liechtenstein"
+		"jp" "リヒテンシュタイン"
+	}
+
+	"#SM_CountryName_LT"
+	{
+		"en" "Lithuania"
+		"jp" "リトアニア"
+	}
+
+	"#SM_CountryName_LU"
+	{
+		"en" "Luxembourg"
+		"jp" "ルクセンブルク"
+	}
+
+	"#SM_CountryName_MO"
+	{
+		"en" "Macao"
+		"jp" "マカオ"
+	}
+
+	"#SM_CountryName_MK"
+	{
+		"en" "Macedonia"
+		"jp" "マケドニア"
+		"sv" "Makedonien"
+	}
+
+	"#SM_CountryName_MG"
+	{
+		"en" "Madagascar"
+		"de" "Madagaskar"
+		"dk" "Madagaskar"
+		"jp" "マダガスカル"
+		"nl" "Madagaskar"
+		"no" "Madagaskar"
+		"sv" "Madagaskar"
+	}
+
+	"#SM_CountryName_MW"
+	{
+		"en" "Malawi"
+		"jp" "マラウイ"
+	}
+
+	"#SM_CountryName_MY"
+	{
+		"en" "Malaysia"
+		"jp" "マレーシア"
+	}
+
+	"#SM_CountryName_MV"
+	{
+		"en" "Maldives"
+		"dk" "Maldiverne"
+		"jp" "モルディブ"
+		"no" "Maldivene"
+		"sv" "Maldiverna"
+	}
+
+	"#SM_CountryName_ML"
+	{
+		"en" "Mali"
+		"jp" "マリ"
+	}
+
+	"#SM_CountryName_MT"
+	{
+		"en" "Malta"
+		"jp" "マルタ"
+	}
+
+	"#SM_CountryName_MH"
+	{
+		"en" "Marshall Islands"
+		"dk" "Marshalløerne"
+		"jp" "マーシャル諸島"
+		"no" "Marshalløyene"
+		"sv" "Marshallöarna"
+	}
+
+	"#SM_CountryName_MQ"
+	{
+		"en" "Martinique"
+		"jp" "マルティニーク"
+	}
+
+	"#SM_CountryName_MR"
+	{
+		"en" "Mauritania"
+		"jp" "モーリタニア"
+	}
+
+	"#SM_CountryName_MU"
+	{
+		"en" "Mauritius"
+		"jp" "モーリシャス"
+	}
+
+	"#SM_CountryName_YT"
+	{
+		"en" "Mayotte"
+		"jp" "マヨット"
+	}
+
+	"#SM_CountryName_MX"
+	{
+		"en" "Mexico"
+		"de" "Mexiko"
+		"dk" "Mexiko"
+		"jp" "メキシコ"
+		"nl" "Mexiko"
+		"no" "Mexiko"
+		"sv" "Mexiko"
+	}
+
+	"#SM_CountryName_FM"
+	{
+		"en" "Micronesia"
+		"jp" "ミクロネシア"
+		"sv" "Mikronesien"
+	}
+
+	"#SM_CountryName_MD"
+	{
+		"en" "Moldova"
+		"jp" "モルドバ"
+	}
+
+	"#SM_CountryName_MC"
+	{
+		"en" "Monaco"
+		"jp" "モナコ"
+	}
+
+	"#SM_CountryName_MN"
+	{
+		"en" "Mongolia"
+		"jp" "モンゴル"
+		"sv" "Mongoliet"
+	}
+
+	"#SM_CountryName_ME"
+	{
+		"en" "Montenegro"
+		"jp" "モンテネグロ"
+	}
+
+	"#SM_CountryName_MS"
+	{
+		"en" "Montserrat"
+		"jp" "モントセラト"
+	}
+
+	"#SM_CountryName_MA"
+	{
+		"en" "Morocco"
+		"jp" "モロッコ"
+	}
+
+	"#SM_CountryName_MZ"
+	{
+		"en" "Mozambique"
+		"jp" "モザンビーク"
+	}
+
+	"#SM_CountryName_MM"
+	{
+		"en" "Myanmar"
+		"jp" "ミャンマー"
+	}
+
+	"#SM_CountryName_NA"
+	{
+		"en" "Namibia"
+		"jp" "ナミビア"
+	}
+
+	"#SM_CountryName_NR"
+	{
+		"en" "Nauru"
+		"jp" "ナウル"
+	}
+
+	"#SM_CountryName_NP"
+	{
+		"en" "Nepal"
+		"jp" "ネパール"
+	}
+
+	"#SM_CountryName_AN"
+	{
+		"en" "Netherlands Antilles"
+		"jp" "オランダ領アンティル"
+		"sv" "Nederländska Antilles"
+	}
+
+	"#SM_CountryName_NL"
+	{
+		"en" "Netherlands"
+		"jp" "オランダ"
+		"nl" "Nederland"
+		"sv" "Nederländerna"
+	}
+
+	"#SM_CountryName_NC"
+	{
+		"en" "New Caledonia"
+		"jp" "ニューカレドニア"
+		"sv" "Nya Caledonia"
+	}
+
+	"#SM_CountryName_NZ"
+	{
+		"en" "New Zealand"
+		"jp" "ニュージーランド"
+		"sv" "Nya Caledonia"
+	}
+
+	"#SM_CountryName_NI"
+	{
+		"en" "Nicaragua"
+		"jp" "ニカラグア"
+	}
+
+	"#SM_CountryName_NE"
+	{
+		"en" "Niger"
+		"jp" "ニジェール"
+	}
+
+	"#SM_CountryName_NG"
+	{
+		"en" "Nigeria"
+		"jp" "ナイジェリア"
+	}
+
+	"#SM_CountryName_NU"
+	{
+		"en" "Niue"
+		"jp" "ニウエ"
+	}
+
+	"#SM_CountryName_NF"
+	{
+		"en" "Norfolk Island"
+		"jp" "ノーフォーク島"
+		"sv" "Norfolkön"
+	}
+
+	"#SM_CountryName_MP"
+	{
+		"en" "Northern Mariana Islands"
+		"jp" "北マリアナ諸島"
+		"sv" "Nordmarianerna"
+	}
+
+	"#SM_CountryName_NO"
+	{
+		"en" "Norway"
+		"jp" "ノルウェー"
+		"sv" "Norge"
+	}
+
+	"#SM_CountryName_OM"
+	{
+		"en" "Oman"
+		"jp" "オマーン"
+	}
+
+	"#SM_CountryName_PK"
+	{
+		"en" "Pakistan"
+		"jp" "パキスタン"
+	}
+
+	"#SM_CountryName_PW"
+	{
+		"en" "Palau"
+		"jp" "パラオ"
+	}
+
+	"#SM_CountryName_PS"
+	{
+		"en" "Palestine"
+		"jp" "パレスチナ"
+		"sv" "Palestina"
+	}
+
+	"#SM_CountryName_PA"
+	{
+		"en" "Panama"
+		"jp" "パナマ"
+	}
+
+	"#SM_CountryName_PG"
+	{
+		"en" "Papua New Guinea"
+		"jp" "パプアニューギニア"
+	}
+
+	"#SM_CountryName_PY"
+	{
+		"en" "Paraguay"
+		"jp" "パラグアイ"
+	}
+
+	"#SM_CountryName_PE"
+	{
+		"en" "Peru"
+		"jp" "ペルー"
+	}
+
+	"#SM_CountryName_PH"
+	{
+		"en" "Philippines"
+		"jp" "フィリピン"
+	}
+
+	"#SM_CountryName_PN"
+	{
+		"en" "Pitcairn Islands"
+		"dk" "Pitcairnøerne"
+		"jp" "ピトケアン諸島"
+		"no" "Pitcarnøyene"
+		"sv" "Pitcairnöarna"
+	}
+
+	"#SM_CountryName_PL"
+	{
+		"en" "Poland"
+		"de" "Polen"
+		"dk" "Polen"
+		"jp" "ポーランド"
+		"sv" "Polen"
+		"nl" "Polen"
+		"no" "Polen"
+	}
+
+	"#SM_CountryName_PT"
+	{
+		"en" "Portugal"
+		"jp" "ポルトガル"
+	}
+
+	"#SM_CountryName_PR"
+	{
+		"en" "Puerto Rico"
+		"jp" "プエルトリコ"
+	}
+
+	"#SM_CountryName_QA"
+	{
+		"en" "Qatar"
+		"jp" "カタール"
+	}
+
+	"#SM_CountryName_RE"
+	{
+		"en" "Reunion"
+		"jp" "再会"
+	}
+
+	"#SM_CountryName_RO"
+	{
+		"en" "Romania"
+		"jp" "ルーマニア"
+		"sv" "Rumänien"
+	}
+
+	"#SM_CountryName_RU"
+	{
+		"en" "Russia"
+		"jp" "ロシア"
+		"sv" "Ryssland"
+	}
+
+	"#SM_CountryName_RW"
+	{
+		"en" "Rwanda"
+		"jp" "ルワンダ"
+	}
+
+	"#SM_CountryName_BL"
+	{
+		"en" "Saint Barthelemy"
+		"jp" "サン・バルテルミー"
+	}
+
+	"#SM_CountryName_SH"
+	{
+		"en" "Saint Helena"
+		"jp" "セントヘレナ"
+	}
+
+	"#SM_CountryName_KN"
+	{
+		"en" "Saint Kitts and Nevis"
+		"de" "Saint Kitts und Nevis"
+		"dk" "Saint Kitts og Nevis"
+		"jp" "セントクリストファー・ネイビス"
+		"nl" "Saint Kitts en Nevis"
+		"no" "Saint Kitts og Nevis"
+		"sv" "Saint Kitts och Nevis"
+	}
+
+	"#SM_CountryName_LC"
+	{
+		"en" "Saint Lucia"
+		"jp" "セントルシア"
+	}
+
+	"#SM_CountryName_MF"
+	{
+		"en" "Saint Martin"
+		"jp" "セントマーチン"
+	}
+
+	"#SM_CountryName_PM"
+	{
+		"en" "Saint Pierre and Miquelon"
+		"dk" "Saint Pierre og Miquelon"
+		"jp" "サンピエール島とミクロン島"
+		"nl" "Saint Pierre en Miquelon"
+		"no" "Saint Pierre og Miquelon"
+		"sv" "Saint Pierre och Miquelon"
+	}
+
+	"#SM_CountryName_VC"
+	{
+		"en" "Saint Vincent and the Grenadines"
+		"dk" "Saint Vincent och Grenadinerne"
+		"jp" "セントビンセントおよびグレナディーン諸島"
+		"no" "Saint Vincent och Grenadinene"
+		"sv" "Saint Vincent och Grenadinerna"
+	}
+
+	"#SM_CountryName_WS"
+	{
+		"en" "Samoa"
+		"jp" "サモア"
+	}
+
+	"#SM_CountryName_SM"
+	{
+		"en" "San Marino"
+		"jp" "サンマリノ"
+	}
+
+	"#SM_CountryName_ST"
+	{
+		"en" "Sao Tome and Principe"
+		"de" "Sao Tome und Principe"
+		"dk" "Sao Tome og Principe"
+		"jp" "サントメ・プリンシペ"
+		"no" "Sao Tome og Principe"
+		"sv" "Sao Tome och Principe"
+	}
+
+	"#SM_CountryName_SA"
+	{
+		"en" "Saudi Arabia"
+		"jp" "サウジアラビア"
+		"sv" "Saudi Arabien"
+	}
+
+	"#SM_CountryName_SN"
+	{
+		"en" "Senegal"
+		"jp" "セネガル"
+	}
+
+	"#SM_CountryName_RS"
+	{
+		"en" "Serbia"
+		"de" "Serbien"
+		"dk" "Serbien"
+		"jp" "セルビア"
+		"nl" "Servië"
+		"no" "Serbien"
+		"sv" "Serbien"
+	}
+
+	"#SM_CountryName_SC"
+	{
+		"en" "Seychelles"
+		"jp" "セーシェル"
+		"sv" "Seychellerna"
+	}
+
+	"#SM_CountryName_SL"
+	{
+		"en" "Sierra Leone"
+		"jp" "シエラレオネ"
+	}
+
+	"#SM_CountryName_SG"
+	{
+		"en" "Singapore"
+		"jp" "シエラレオネ"
+	}
+
+	"#SM_CountryName_SK"
+	{
+		"en" "Slovakia"
+		"de" "Slovakien"
+		"dk" "Slovakien"
+		"jp" "スロバキア"
+		"no" "Slovakien"
+		"sv" "Slovakien"
+	}
+
+	"#SM_CountryName_SI"
+	{
+		"en" "Slovenia"
+		"de" "Slovenien"
+		"dk" "Slovenien"
+		"jp" "スロベニア"
+		"no" "Slovenien"
+		"sv" "Slovenien"
+	}
+
+	"#SM_CountryName_SB"
+	{
+		"en" "Solomon Islands"
+		"jp" "ソロモン諸島"
+		"sv" "Solomonöarna"
+	}
+
+	"#SM_CountryName_SO"
+	{
+		"en" "Somalia"
+		"de" "Somalien"
+		"dk" "Somalien"
+		"jp" "ソマリア"
+		"no" "Somalien"
+		"sv" "Somalien"
+	}
+
+	"#SM_CountryName_ZA"
+	{
+		"en" "South Africa"
+		"jp" "南アフリカ"
+		"sv" "Sydafrika"
+	}
+
+	"#SM_CountryName_GS"
+	{
+		"en" "South Georgia and the South Sandwich Islands"
+		"jp" "サウスジョージア・サウスサンドウィッチ諸島"
+	}
+
+	"#SM_CountryName_ES"
+	{
+		"en" "Spain"
+		"de" "Spanien"
+		"dk" "Spanien"
+		"jp" "スペイン"
+		"no" "Spanien"
+		"sv" "Spanien"
+	}
+
+	"#SM_CountryName_LK"
+	{
+		"en" "Sri Lanka"
+		"jp" "スリランカ"
+	}
+
+	"#SM_CountryName_SD"
+	{
+		"en" "Sudan"
+		"jp" "スーダン"
+	}
+
+	"#SM_CountryName_SR"
+	{
+		"en" "Suriname"
+		"sv" "Surinam"
+	}
+
+	"#SM_CountryName_SJ"
+	{
+		"en" "Svalbard and Jan Mayen Islands"
+		"jp" "スヴァールバル諸島とヤンマイエン諸島"
+		"sv" "Svalbard och Jan Mayenöarna"
+	}
+
+	"#SM_CountryName_SZ"
+	{
+		"en" "Swaziland"
+		"jp" "スワジランド"
+	}
+
+	"#SM_CountryName_SE"
+	{
+		"by" "Швецыя"
+		"cn" "瑞典"
+		"cz" "Švédsko"
+		"ee" "Rootsi"
+		"en" "Sweden"
+		"es" "Suecia"
+		"de" "Schweden"
+		"dk" "Sverige"
+		"fi" "Ruotsi"
+		"fr" "Suède"
+		"hr" "Švedska"
+		"hu" "Svédország"
+		"is" "Svíþjóð"
+		"it" "Svezia"
+		"jp" "スウェーデン"
+		"lt" "Švedija"
+		"lv" "Zviedrija"
+		"nl" "Zweden"
+		"no" "Sverige"
+		"pt" "Suécia"
+		"ru" "Швеция"
+		"sv" "Sverige"
+	}
+
+	"#SM_CountryName_CH"
+	{
+		"en" "Switzerland"
+		"jp" "スイス"
+		"sv" "Schweiz"
+	}
+
+	"#SM_CountryName_SY"
+	{
+		"en" "Syria"
+		"jp" "シリア"
+		"sv" "Syrien"
+	}
+
+	"#SM_CountryName_TW"
+	{
+		"en" "Taiwan"
+		"jp" "台湾"
+	}
+
+	"#SM_CountryName_TJ"
+	{
+		"en" "Tajikistan"
+		"jp" "タジキスタン"
+	}
+
+	"#SM_CountryName_TZ"
+	{
+		"en" "Tanzania"
+		"jp" "タンザニア"
+	}
+
+	"#SM_CountryName_TH"
+	{
+		"en" "Thailand"
+		"jp" "タイ"
+	}
+
+	"#SM_CountryName_TL"
+	{
+		"en" "Timor-Leste"
+		"jp" "ティモール・リード"
+	}
+
+	"#SM_CountryName_TG"
+	{
+		"en" "Togo"
+		"jp" "持ち帰り"
+	}
+
+	"#SM_CountryName_TK"
+	{
+		"en" "Tokelau"
+		"jp" "トケラウ"
+	}
+
+	"#SM_CountryName_TO"
+	{
+		"en" "Tonga"
+		"jp" "トンガ"
+	}
+
+	"#SM_CountryName_TT"
+	{
+		"en" "Trinidad and Tobago"
+		"jp" "トリニダード・トバゴ"
+		"sv" "Trinidad och Tobago"
+	}
+
+	"#SM_CountryName_TN"
+	{
+		"en" "Tunisia"
+		"de" "Tunisien"
+		"jp" "チュニジア"
+		"sv" "Tunisien"
+	}
+
+	"#SM_CountryName_TR"
+	{
+		"en" "Turkey"
+		"jp" "七面鳥"
+		"sv" "Turkiet"
+	}
+
+	"#SM_CountryName_TM"
+	{
+		"en" "Turkmenistan"
+		"jp" "トルクメニスタン"
+	}
+
+	"#SM_CountryName_TC"
+	{
+		"en" "Turks and Caicos Islands"
+		"jp" "タークス・カイコス諸島"
+	}
+
+	"#SM_CountryName_TV"
+	{
+		"en" "Tuvalu"
+		"jp" "ツバル"
+	}
+
+	"#SM_CountryName_UG"
+	{
+		"en" "Uganda"
+		"jp" "ウガンダ"
+	}
+
+	"#SM_CountryName_UA"
+	{
+		"en" "Ukraine"
+		"jp" "ウクライナ"
+		"sv" "Ukraina"
+	}
+
+	"#SM_CountryName_AE"
+	{
+		"en" "United Arab Emirates"
+		"jp" "アラブ首長国連邦"
+		"sv" "Förenta Arabemiraten"
+	}
+
+	"#SM_CountryName_GB"
+	{
+		"en" "United Kingdom"
+		"jp" "イギリス"
+		"sv" "Storbrittanien"
+	}
+
+	"#SM_CountryName_US"
+	{
+		"en" "United States"
+		"jp" "アメリカ"
+		"sv" "Förenta Staterna"
+	}
+
+	"#SM_CountryName_UM"
+	{
+		"en" "United States Minor Outlying Islands"
+		"jp" "合衆国領有小離島"
+		"sv" "Förenta Staternas Mindre Avlägsna Öar"
+	}
+
+	"#SM_CountryName_VI"
+	{
+		"en" "United States Virgin Islands"
+		"jp" "アメリカ領ヴァージン諸島"
+		"sv" "Förenta Staternas Jungfruöarna"
+	}
+
+	"#SM_CountryName_UY"
+	{
+		"en" "Uruguay"
+		"jp" "ウルグアイ"
+	}
+
+	"#SM_CountryName_UZ"
+	{
+		"en" "Uzbekistan"
+		"jp" "ウズベキスタン"
+	}
+
+	"#SM_CountryName_VU"
+	{
+		"en" "Vanuatu"
+		"jp" "バヌアツ"
+	}
+
+	"#SM_CountryName_VE"
+	{
+		"en" "Venezuela"
+		"jp" "ベネズエラ"
+	}
+
+	"#SM_CountryName_VN"
+	{
+		"en" "Vietnam"
+		"jp" "ベトナム"
+	}
+
+	"#SM_CountryName_WF"
+	{
+		"en" "Wallis and Futuna"
+		"de" "Wallis und Futuna"
+		"dk" "Wallis og Futuna"
+		"jp" "ウォリス・フツナ"
+		"no" "Wallis og Futuna"
+		"sv" "Wallis och Futuna"
+	}
+
+	"#SM_CountryName_EH"
+	{
+		"en" "Western Sahara"
+		"jp" "西サハラ"
+		"sv" "Västra Sahara"
+	}
+
+	"#SM_CountryName_YE"
+	{
+		"en" "Yemen"
+		"jp" "イエメン"
+	}
+
+	"#SM_CountryName_XK"
+	{
+		"en" "Kosovo"
+		"jp" "コソボ"
+	}
+
+	"#SM_CountryName_ZM"
+	{
+		"en" "Zambia"
+		"jp" "ザンビア"
+	}
+
+	"#SM_CountryName_ZW"
+	{
+		"en" "Zimbabwe"
+		"jp" "ジンバブエ"
+	}
+
+	"#SM_CountryName_ZZ"
+	{
+		"en" "Unknown country"
+		"jp" "不明な国"
+		"sv" "Okänt land"
+	}
+}
