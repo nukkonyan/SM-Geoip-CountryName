@@ -9,7 +9,7 @@
 #endif
 
 /*
- *	Returns the country name from sm_geoip_country.phrases.txt in the targets language.
+ *	Returns the country name from geoip_country.phrases.txt in the targets language.
  *
  *	@param	target	The users index to read language from.
  *	@param	ip		The ip to read country from.
