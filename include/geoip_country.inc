@@ -1,5 +1,5 @@
-#if _sm_country_geoip_included
-#pragma error GeoIP Country Translation is already included.
+#if defined _sm_country_geoip_included
+	#error GeoIP Country Translation is already included.
 #endif
 
 #define _sm_country_geoip_included
@@ -9,10 +9,10 @@
 #endif
 
 /*
- *	Returns the country name from geoip_country.phrases.txt in the targets language.
+ *	Returns the country name from sm_geoip_country.phrases.txt in the targets language.
  *
  *	@param	target	The users index to read language from.
- *	@param	ip	The ip to read country from.
+ *	@param	ip		The ip to read country from.
  *	@param	name	The buffer to write to.
  *	@param	maxlen	The length of the buffer.
  *
@@ -52,12 +52,12 @@ stock void GeoipCountryName(int target, const char[] ip, char[] name, int maxlen
  */
 stock void GeoipCountryLoadTranslation()
 {
-	char path[32];
+	char path[64];
 	BuildPath(Path_SM, path, sizeof(path), "translations/geoip_country.phrases.txt");
 	
 	if(!FileExists(path))
 	{
-		SetFailState("Failed to load Geoip country translation file!");
+		SetFailState("Failed to load Geoip country translation file '%s'!", path);
 	}
 	
 	LoadTranslations("geoip_country.phrases");
