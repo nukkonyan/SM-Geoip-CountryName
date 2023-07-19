@@ -1603,7 +1603,7 @@
 		"hu" "Svédország"
 		"is" "Svíþjóð"
 		"it" "Svezia"
-		"jp" "スウェーデン"
+		"jp" "瑞典（スウェーデン）"
 		"lt" "Švedija"
 		"lv" "Zviedrija"
 		"nl" "Zweden"
