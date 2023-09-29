@@ -1,33 +1,90 @@
 "Phrases"
 {
-	// if none is specified for a country, 'en' is prioritized.
+	// if none is specified for a country, 'en' is prioritized. Either language's country name is not yet defined, or share same country name as english.
 
 	"#SM_CountryName_AF"
 	{
-		"chi" "阿富汗"
+		"cn" "阿富汗"
 		"en" "Afghanistan"
 		"jp" "アフガニスタン"
 	}
 
 	"#SM_CountryName_AX"
 	{
-		"chi" "奥兰群岛"
+		"al" "Ishujt Åland"
+		"bg" "Оландски острови"
+		"br" "Ilhas Åland"
+		"by" "Аландскія астравы"
+		"cn" "奥兰群岛"
+		"cz" "Alandy"
+		"ee" "Ahvenamaa"
 		"en" "Åland Islands"
+		"es" "Islas Åland"
+		"de" "Åland"
+		"dk" "Åland"
+		"fi" "Ahvenanmaa"
+		"fr" "Îles Åland"
+		"gr" "Νησιά Åland"
+		"hr" "Olandska ostrva"
+		"hu" "Åland-szigetek"
+		"id" "Kepulauan Åland"
+		"is" "Álandseyjar"
+		"it" "Isole Åland"
+		"id" "Kepulauan Åland"
 		"jp" "オーランド諸島"
+		"ko" "올란드 제도"
+		"lt" "Alandų salos"
+		"lv" "Ālandu salas"
+		"nl" "Åland"
+		"no" "Åland"
+		"pl" "Wyspy Alandzkie"
+		"pt" "Ilhas Åland"
+		"ro" "Insulele Åland"
+		"rs" "Аландска острва"
+		"ru" "Аландские острова"
+		"si" "Ålandski otoki"
+		"sk" "Alandské ostrovy"
 		"sv" "Åland"
+		"tr" "Åland Adaları"
+		"ua" "Аландські острови"
 	}
 
 	"#SM_CountryName_AL"
 	{
-		"chi" "阿尔巴尼亚"
+		"al" "Shqipëria"
+		"bg" "Албания"
+		"br" "Albânia"
+		"by" "Албанія"
+		"cn" "阿尔巴尼亚"
+		"cz" "Albánie"
+		"ee" "Albaania"
 		"en" "Albania"
+		"de" "Albanien"
+		"dk" "Albanien"
+		"fr" "Albanie"
+		"gr" "Αλβανία"
+		"hr" "Albanija"
+		"hu" "Albánia"
+		"is" "Albanía"
 		"jp" "アルバニア"
+		"ko" "알바니아"
+		"lt" "Albanija"
+		"lv" "Albānija"
+		"nl" "Albanië"
+		"pl" "Albânia"
+		"pt" "Albânia"
+		"rs" "Албанија"
+		"ru" "Албания"
+		"si" "Albanija"
+		"sk" "Albánsko"
 		"sv" "Albanien"
+		"tr" "Arnavutluk"
+		"ua" "Албанія"
 	}
 
 	"#SM_CountryName_DZ"
 	{
-		"chi" "阿尔及利亚"
+		"cn" "阿尔及利亚"
 		"en" "Algeria"
 		"jp" "アルジェリア"
 		"sv" "Algeriet"
@@ -35,7 +92,7 @@
 
 	"#SM_CountryName_AS"
 	{
-		"chi" "美属萨摩亚"
+		"cn" "美属萨摩亚"
 		"en" "American Samoa"
 		"jp" "アメリカ領サモア"
 		"sv" "Amerikanska Samoa"
@@ -43,28 +100,28 @@
 
 	"#SM_CountryName_AD"
 	{
-		"chi" "安道尔"
+		"cn" "安道尔"
 		"en" "Andorra"
 		"jp" "アンドラ"
 	}
 
 	"#SM_CountryName_AO"
 	{
-		"chi" "安哥拉"
+		"cn" "安哥拉"
 		"en" "Angola"
 		"jp" "アンゴラ"
 	}
 
 	"#SM_CountryName_AI"
 	{
-		"chi" "安圭拉"
+		"cn" "安圭拉"
 		"en" "Anguilla"
 		"jp" "アンギラ"
 	}
 
 	"#SM_CountryName_AQ"
 	{
-		"chi" "南极洲"
+		"cn" "南极洲"
 		"en" "Antarctica"
 		"jp" "南極大陸"
 		"sv" "Antarktis"
@@ -72,7 +129,7 @@
 
 	"#SM_CountryName_AG"
 	{
-		"chi" "安提瓜和巴布达"
+		"cn" "安提瓜和巴布达"
 		"en" "Antigua and Barbuda"
 		"de" "Antigua und Barbuda"
 		"dk" "Antigua og Barbuda"
@@ -84,14 +141,14 @@
 
 	"#SM_CountryName_AR"
 	{
-		"chi" "阿根廷"
+		"cn" "阿根廷"
 		"en" "Argentina"
 		"jp" "アルゼンチン"
 	}
 
 	"#SM_CountryName_AM"
 	{
-		"chi" "亚美尼亚"
+		"cn" "亚美尼亚"
 		"en" "Armenia"
 		"jp" "アルメニア"
 		"sv" "Armenien"
@@ -99,66 +156,112 @@
 
 	"#SM_CountryName_AW"
 	{
-		"chi" "阿鲁巴岛"
+		"cn" "阿鲁巴岛"
 		"en" "Aruba"
 		"jp" "アルバ"
 	}
 
 	"#SM_CountryName_AU"
 	{
-		"chi" "澳大利亚"
+		"bg" "Австралия"
+		"br" "Austrália"
+		"by" "Аўстралія"
+		"cn" "澳大利亚"
+		"cz" "Austrálie"
+		"ee" "Austraalia"
 		"en" "Australia"
+		"de" "Australien"
+		"dk" "Australien"
+		"fr" "Australie"
+		"gr" "Αυστραλία"
+		"hr" "Australija"
+		"hu" "Ausztrália"
+		"is" "Ástralía"
 		"jp" "オーストラリア"
+		"ko" "호주"
+		"lt" "Australija"
+		"lv" "Austrālija"
+		"nl" "Australië"
+		"pt" "Austrália"
+		"rs" "Аустралија"
+		"ru" "Австралия"
+		"si" "Avstralija"
+		"sk" "Austrália"
 		"sv" "Australien"
+		"tr" "Avustralya"
+		"ua" "Австралія"
 	}
 
 	"#SM_CountryName_AT"
 	{
-		"chi" "奥地利"
+		"bg" "Австрия"
+		"br" "Áustria"
+		"by" "Аўстрыя"
+		"cn" "奥地利"
+		"cz" "Rakousko"
 		"en" "Austria"
 		"de" "Österreich"
+		"dk" "Østrig"
+		"fi" "Itävalta"
+		"fr" "Autriche"
+		"gr" "Αυστρία"
+		"hr" "Austrija"
+		"hu" "Ausztria"
+		"is" "Austurríki"
 		"jp" "オーストリア"
+		"ko" "오스트리아"
+		"lt" "Austrija"
+		"lv" "Austrija"
+		"nl" "Oostenrijk"
+		"no" "Østerrike"
+		"pt" "Áustria"
+		"rs" "Аустрија"
+		"ru" "Австрия"
+		"si" "Avstrija"
+		"sk" "Rakúsko"
 		"sv" "Österrike"
+		"tr" "Avusturya"
+		"ua" "Австрія"
 	}
 
 	"#SM_CountryName_AZ"
 	{
-		"chi" "阿塞拜疆"
+		"cn" "阿塞拜疆"
 		"en" "Azerbaijan"
 		"jp" "アゼルバイジャン"
 	}
 
 	"#SM_CountryName_BS"
 	{
-		"chi" "巴哈马"
+		"cn" "巴哈马"
 		"en" "Bahamas"
 		"jp" "バハマ"
 	}
 
 	"#SM_CountryName_BH"
 	{
-		"chi" "巴林"
+		"cn" "巴林"
 		"en" "Bahrain"
 		"jp" "バーレーン"
 	}
 
 	"#SM_CountryName_BD"
 	{
-		"chi" "孟加拉国"
+		"cn" "孟加拉国"
 		"en" "Bangladesh"
 		"jp" "バングラデシュ"
 	}
 
 	"#SM_CountryName_BB"
 	{
-		"chi" "巴巴多斯"
+		"cn" "巴巴多斯"
 		"en" "Barbados"
 		"jp" "バルバドス"
 	}
 
 	"#SM_CountryName_BY"
 	{
-		"chi" "白俄罗斯"
+		"cn" "白俄罗斯"
 		"en" "Belarus"
 		"jp" "ベラルーシ"
 		"sv" "Vitryssland"
@@ -166,7 +269,7 @@
 
 	"#SM_CountryName_BE"
 	{
-		"chi" "比利时"
+		"cn" "比利时"
 		"en" "Belgium"
 		"de" "Belgien"
 		"dk" "Belgien"
@@ -178,42 +281,42 @@
 
 	"#SM_CountryName_BZ"
 	{
-		"chi" "伯利兹"
+		"cn" "伯利兹"
 		"en" "Belize"
 		"jp" "ベリーズ"
 	}
 
 	"#SM_CountryName_BJ"
 	{
-		"chi" "贝宁"
+		"cn" "贝宁"
 		"en" "Benin"
 		"jp" "ベナン"
 	}
 
 	"#SM_CountryName_BM"
 	{
-		"chi" "百慕大"
+		"cn" "百慕大"
 		"en" "Bermuda"
 		"jp" "バミューダ"
 	}
 
 	"#SM_CountryName_BT"
 	{
-		"chi" "不丹"
+		"cn" "不丹"
 		"en" "Bhutan"
 		"jp" "ブータン"
 	}
 
 	"#SM_CountryName_BO"
 	{
-		"chi" "玻利维亚"
+		"cn" "玻利维亚"
 		"en" "Bolivia"
 		"jp" "ボリビア"
 	}
 
 	"#SM_CountryName_BA"
 	{
-		"chi" "波斯尼亚和黑塞哥维那"
+		"cn" "波斯尼亚和黑塞哥维那"
 		"en" "Bosnia and Herzegovina"
 		"de" "Bosnien und Herzegowina"
 		"dk" "Bosnien-Hercegovina"
@@ -225,14 +328,14 @@
 
 	"#SM_CountryName_BW"
 	{
-		"chi" "博茨瓦纳"
+		"cn" "博茨瓦纳"
 		"en" "Botswana"
 		"jp" "ボツワナ"
 	}
 
 	"#SM_CountryName_BV"
 	{
-		"chi" "布维岛（布维岛）"
+		"cn" "布维岛（布维岛）"
 		"en" "Bouvet Island (Bouvetoya)"
 		"jp" "ブーベ島（ブーベトヤ）"
 		"sv" "Bouvetön (Bouvetoya)"
@@ -240,7 +343,7 @@
 
 	"#SM_CountryName_BR"
 	{
-		"chi" "巴西"
+		"cn" "巴西"
 		"en" "Brazil"
 		"de" "Brazilien"
 		"dk" "Brazilien"
@@ -251,7 +354,7 @@
 
 	"#SM_CountryName_IO"
 	{
-		"chi" "英属印度洋领地（查戈斯群岛）"
+		"cn" "英属印度洋领地（查戈斯群岛）"
 		"en" "British Indian Ocean Territory (Chagos Archipelago)"
 		"jp" "イギリス領インド洋地域 (チャゴス諸島)"
 		"sv" "Brittiska Territoriet i Indiska oceanen (Chagos skärgård)"
@@ -259,7 +362,7 @@
 
 	"#SM_CountryName_VG"
 	{
-		"chi" "英属维尔京群岛"
+		"cn" "英属维尔京群岛"
 		"en" "British Virgin Islands"
 		"jp" "イギリス領バージン諸島"
 		"sv" "Brittiska Jungfruöarna"
@@ -267,14 +370,14 @@
 
 	"#SM_CountryName_BN"
 	{
-		"chi" "文莱"
+		"cn" "文莱"
 		"en" "Brunei"
 		"jp" "ブルネイ"
 	}
 
 	"#SM_CountryName_BG"
 	{
-		"chi" "保加利亚"
+		"cn" "保加利亚"
 		"en" "Bulgaria"
 		"dk" "Bulgarien"
 		"jp" "ブルガリア"
@@ -284,21 +387,21 @@
 
 	"#SM_CountryName_BF"
 	{
-		"chi" "布基纳法索"
+		"cn" "布基纳法索"
 		"en" "Burkina Faso"
 		"jp" "ブルキナファソ"
 	}
 
 	"#SM_CountryName_BI"
 	{
-		"chi" "布隆迪"
+		"cn" "布隆迪"
 		"en" "Burundi"
 		"jp" "ブルンジ"
 	}
 
 	"#SM_CountryName_KH"
 	{
-		"chi" "柬埔寨"
+		"cn" "柬埔寨"
 		"en" "Cambodia"
 		"jp" "カンボジア"
 		"sv" "Kambodja"
@@ -306,7 +409,7 @@
 
 	"#SM_CountryName_CM"
 	{
-		"chi" "喀麦隆"
+		"cn" "喀麦隆"
 		"en" "Cameroon"
 		"jp" "カメルーン"
 		"sv" "Kamerun"
@@ -314,7 +417,7 @@
 
 	"#SM_CountryName_CA"
 	{
-		"chi" "加拿大"
+		"cn" "加拿大"
 		"en" "Canada"
 		"de" "Kanada"
 		"dk" "Kanada"
@@ -326,14 +429,14 @@
 
 	"#SM_CountryName_CV"
 	{
-		"chi" "佛得角"
+		"cn" "佛得角"
 		"en" "Cape Verde"
 		"jp" "カーボベルデ"
 	}
 
 	"#SM_CountryName_KY"
 	{
-		"chi" "开曼群岛"
+		"cn" "开曼群岛"
 		"en" "Cayman Islands"
 		"dk" "Caymanøerne"
 		"jp" "ケイマン諸島"
@@ -343,7 +446,7 @@
 
 	"#SM_CountryName_CF"
 	{
-		"chi" "中非共和国"
+		"cn" "中非共和国"
 		"en" "Central African Republic"
 		"jp" "中央アフリカ共和国"
 		"sv" "Central Afrikanska Republiken"
@@ -351,21 +454,21 @@
 
 	"#SM_CountryName_TD"
 	{
-		"chi" "乍得"
+		"cn" "乍得"
 		"en" "Chad"
 		"jp" "チャド"
 	}
 
 	"#SM_CountryName_CL"
 	{
-		"chi" "智利"
+		"cn" "智利"
 		"en" "Chile"
 		"jp" "チリ"
 	}
 
 	"#SM_CountryName_CN"
 	{
-		"chi" "中国"
+		"cn" "中国"
 		"en" "China"
 		"de" "Kina"
 		"dk" "Kina"
@@ -376,7 +479,7 @@
 
 	"#SM_CountryName_CX"
 	{
-		"chi" "圣诞岛"
+		"cn" "圣诞岛"
 		"en" "Christmas Island"
 		"jp" "クリスマス島"
 		"sv" "Julön"
@@ -384,7 +487,7 @@
 
 	"#SM_CountryName_CC"
 	{
-		"chi" "科科斯群岛（基林）"
+		"cn" "科科斯群岛（基林）"
 		"en" "Cocos Islands (Keeling)"
 		"dk" "Cocosøerne (Keeling)"
 		"jp" "ココス諸島 (キーリング)"
@@ -394,14 +497,14 @@
 
 	"#SM_CountryName_CO"
 	{
-		"chi" "哥伦比亚"
+		"cn" "哥伦比亚"
 		"en" "Colombia"
 		"jp" "コロンビア"
 	}
 
 	"#SM_CountryName_KM"
 	{
-		"chi" "科摩罗"
+		"cn" "科摩罗"
 		"en" "Comoros"
 		"jp" "コモロ"
 		"sv" "Komorerna"
@@ -409,7 +512,7 @@
 
 	"#SM_CountryName_CD"
 	{
-		"chi" "刚果民主共和国"
+		"cn" "刚果民主共和国"
 		"en" "Democratic Republic of the Congo"
 		"jp" "コンゴ民主共和国"
 		"sv" "Demokratiska republiken av Kongo"
@@ -417,7 +520,7 @@
 
 	"#SM_CountryName_CG"
 	{
-		"chi" "刚果共和国"
+		"cn" "刚果共和国"
 		"en" "Republic of the Congo"
 		"jp" "コンゴ共和国"
 		"sv" "Republiken av Kongo"
@@ -425,7 +528,7 @@
 
 	"#SM_CountryName_CK"
 	{
-		"chi" "库克群岛"
+		"cn" "库克群岛"
 		"en" "Cook Islands"
 		"dk" "Cookøerne"
 		"jp" "クック諸島"
@@ -435,14 +538,14 @@
 
 	"#SM_CountryName_CR"
 	{
-		"chi" "哥斯达黎加"
+		"cn" "哥斯达黎加"
 		"en" "Costa Rica"
 		"jp" "コスタリカ"
 	}
 
 	"#SM_CountryName_CI"
 	{
-		"chi" "科特迪瓦"
+		"cn" "科特迪瓦"
 		"en" "Cote d' Ivoire"
 		"jp" "コートジボワール"
 		"sv" "Elfenbenskusten"
@@ -450,7 +553,7 @@
 
 	"#SM_CountryName_HR"
 	{
-		"chi" "克罗地亚"
+		"cn" "克罗地亚"
 		"en" "Croatia"
 		"dk" "Kroatien"
 		"jp" "クロアチア"
@@ -460,7 +563,7 @@
 
 	"#SM_CountryName_CU"
 	{
-		"chi" "古巴"
+		"cn" "古巴"
 		"en" "Cuba"
 		"de" "Kuba"
 		"dk" "Kuba"
@@ -471,7 +574,7 @@
 
 	"#SM_CountryName_CY"
 	{
-		"chi" "塞浦路斯"
+		"cn" "塞浦路斯"
 		"en" "Cyprus"
 		"jp" "キプロス"
 		"sv" "Cypern"
@@ -479,7 +582,7 @@
 
 	"#SM_CountryName_CZ"
 	{
-		"chi" "捷克"
+		"cn" "捷克"
 		"en" "Czechia"
 		"jp" "チェコ"
 		"sv" "Tjeckien"
@@ -487,7 +590,7 @@
 
 	"#SM_CountryName_DK"
 	{
-		"chi" "丹麦"
+		"cn" "丹麦"
 		"en" "Denmark"
 		"de" "Danmark"
 		"dk" "Danmark"
@@ -498,21 +601,21 @@
 
 	"#SM_CountryName_DJ"
 	{
-		"chi" "吉布提"
+		"cn" "吉布提"
 		"en" "Djibouti"
 		"jp" "ジブチ"
 	}
 
 	"#SM_CountryName_DM"
 	{
-		"chi" "多米尼加"
+		"cn" "多米尼加"
 		"en" "Dominica"
 		"jp" "ドミニカ"
 	}
 
 	"#SM_CountryName_DO"
 	{
-		"chi" "多明尼加共和国"
+		"cn" "多明尼加共和国"
 		"en" "Dominican Republic"
 		"jp" "ドミニカ共和国"
 		"sv" "Dominikanska Republiken"
@@ -520,14 +623,14 @@
 
 	"#SM_CountryName_EC"
 	{
-		"chi" "厄瓜多尔"
+		"cn" "厄瓜多尔"
 		"en" "Ecuador"
 		"jp" "エクアドル"
 	}
 
 	"#SM_CountryName_EG"
 	{
-		"chi" "埃及"
+		"cn" "埃及"
 		"en" "Egypt"
 		"jp" "エジプト"
 		"sv" "Egypten"
@@ -535,14 +638,14 @@
 
 	"#SM_CountryName_SV"
 	{
-		"chi" "萨尔瓦多"
+		"cn" "萨尔瓦多"
 		"en" "El Salvador"
 		"jp" "救世主"
 	}
 
 	"#SM_CountryName_GQ"
 	{
-		"chi" "赤道几内亚"
+		"cn" "赤道几内亚"
 		"en" "Equatorial Guinea"
 		"jp" "赤道ギニア"
 		"sv" "Ekvatorialguinea"
@@ -550,14 +653,14 @@
 
 	"#SM_CountryName_ER"
 	{
-		"chi" "厄立特里亚"
+		"cn" "厄立特里亚"
 		"en" "Eritrea"
 		"jp" "エリトリア"
 	}
 
 	"#SM_CountryName_EE"
 	{
-		"chi" "爱沙尼亚"
+		"cn" "爱沙尼亚"
 		"ee" "Eesti"
 		"en" "Estonia"
 		"fi" "Eesti"
@@ -570,7 +673,7 @@
 
 	"#SM_CountryName_ET"
 	{
-		"chi" "埃塞俄比亚"
+		"cn" "埃塞俄比亚"
 		"en" "Ethiopia"
 		"de" "Etiopien"
 		"dk" "Etiopien"
@@ -581,7 +684,7 @@
 
 	"#SM_CountryName_FO"
 	{
-		"chi" "法罗群岛"
+		"cn" "法罗群岛"
 		"en" "Faroe Islands"
 		"jp" "フェロー諸島"
 		"sv" "Färöarna"
@@ -589,7 +692,7 @@
 
 	"#SM_CountryName_FK"
 	{
-		"chi" "福克兰群岛（马尔维纳斯）"
+		"cn" "福克兰群岛（马尔维纳斯）"
 		"en" "Falkland Islands (Malvinas)"
 		"jp" "フォークランド諸島 (マルビナス)"
 		"sv" "Falklandöarna (Malvinas)"
@@ -597,7 +700,7 @@
 
 	"#SM_CountryName_FJ"
 	{
-		"chi" "斐济群岛"
+		"cn" "斐济群岛"
 		"en" "Fiji Islands"
 		"dk" "Fijiøerne"
 		"jp" "フィジー諸島"
@@ -607,7 +710,7 @@
 
 	"#SM_CountryName_FI"
 	{
-		"chi" "芬兰"
+		"cn" "芬兰"
 		"en" "Finland"
 		"fi" "Suomi"
 		"jp" "フィンランド"
@@ -615,7 +718,7 @@
 
 	"#SM_CountryName_FR"
 	{
-		"chi" "法国"
+		"cn" "法国"
 		"en" "France"
 		"dk" "Frankrig"
 		"jp" "フランス"
@@ -625,7 +728,7 @@
 
 	"#SM_CountryName_GF"
 	{
-		"chi" "法属圭亚那"
+		"cn" "法属圭亚那"
 		"en" "French Guiana"
 		"jp" "フランス領ギアナ"
 		"sv" "Franska Guiana"
@@ -633,7 +736,7 @@
 
 	"#SM_CountryName_PF"
 	{
-		"chi" "法属波利尼西亚"
+		"cn" "法属波利尼西亚"
 		"en" "French Polynesia"
 		"jp" "フランス領ポリネシア"
 		"sv" "Franska Polynesien"
@@ -641,7 +744,7 @@
 
 	"#SM_CountryName_TF"
 	{
-		"chi" "法属南部领土"
+		"cn" "法属南部领土"
 		"en" "French Southern Territories"
 		"jp" "フランス領南方領土"
 		"sv" "Franska Södra Territorierna"
@@ -649,21 +752,21 @@
 
 	"#SM_CountryName_GA"
 	{
-		"chi" "加蓬"
+		"cn" "加蓬"
 		"en" "Gabon"
 		"jp" "ガボン"
 	}
 
 	"#SM_CountryName_GM"
 	{
-		"chi" "冈比亚"
+		"cn" "冈比亚"
 		"en" "Gambia"
 		"jp" "ガンビア"
 	}
 
 	"#SM_CountryName_GE"
 	{
-		"chi" "乔治亚州"
+		"cn" "乔治亚州"
 		"en" "Georgia"
 		"jp" "グルジア"
 		"sv" "Georgien"
@@ -671,7 +774,7 @@
 
 	"#SM_CountryName_DE"
 	{
-		"chi" "德国"
+		"cn" "德国"
 		"en" "Germany"
 		"de" "Deutschland"
 		"dk" "Tyskland"
@@ -682,21 +785,21 @@
 
 	"#SM_CountryName_GH"
 	{
-		"chi" "加纳"
+		"cn" "加纳"
 		"en" "Ghana"
 		"jp" "ガーナ"
 	}
 
 	"#SM_CountryName_GI"
 	{
-		"chi" "直布罗陀"
+		"cn" "直布罗陀"
 		"en" "Gibraltar"
 		"jp" "ジブラルタル"
 	}
 
 	"#SM_CountryName_GR"
 	{
-		"chi" "希腊"
+		"cn" "希腊"
 		"en" "Greece"
 		"dk" "Grekland"
 		"jp" "ギリシャ"
@@ -706,7 +809,7 @@
 
 	"#SM_CountryName_GL"
 	{
-		"chi" "格陵兰"
+		"cn" "格陵兰"
 		"en" "Greenland"
 		"jp" "グリーンランド"
 		"nl" "Groenland"
@@ -715,14 +818,14 @@
 
 	"#SM_CountryName_GD"
 	{
-		"chi" "格林纳达"
+		"cn" "格林纳达"
 		"en" "Grenada"
 		"jp" "グレナダ"
 	}
 
 	"#SM_CountryName_GP"
 	{
-		"chi" "瓜德罗普岛"
+		"cn" "瓜德罗普岛"
 		"en" "Guadeloupe"
 		"jp" "グアドループ"
 	}
@@ -1589,6 +1692,7 @@
 
 	"#SM_CountryName_SE"
 	{
+		"al" "Suedia"
 		"by" "Швецыя"
 		"cn" "瑞典"
 		"cz" "Švédsko"
@@ -1603,14 +1707,20 @@
 		"hu" "Svédország"
 		"is" "Svíþjóð"
 		"it" "Svezia"
-		"jp" "瑞典（スウェーデン）"
+		"jp" "スウェーデン"
 		"lt" "Švedija"
+		"ko" "스웨덴"
 		"lv" "Zviedrija"
 		"nl" "Zweden"
 		"no" "Sverige"
 		"pt" "Suécia"
+		"ro" "Suedia"
+		"rs" "Сведен"
 		"ru" "Швеция"
+		"si" "Švedska"
+		"sk" "Švédsko"
 		"sv" "Sverige"
+		"tr" "İsveç"
 	}
 
 	"#SM_CountryName_CH"

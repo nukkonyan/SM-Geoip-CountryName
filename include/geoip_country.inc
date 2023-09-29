@@ -10,6 +10,7 @@
 
 /*
  *	Returns the country name from sm_geoip_country.phrases.txt in the targets language.
+ *	reads 2-digit Country Name Localized ID such as 'United States of America' - 'US'
  *
  *	@param	target	The users index to read language from.
  *	@param	ip		The ip to read country from.
